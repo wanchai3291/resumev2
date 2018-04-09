@@ -4,6 +4,7 @@ body{
     height: 29.7cm;
     border: 1px solid black;
     margin: 0 auto;
+    background-color: #99ffd888;
 }
 #container{
 width: 100%;
@@ -103,5 +104,9 @@ h2{
 .p1{
     
     margin: 40px 20px;
-    border-radius: 60%;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 2);
+}
+p{
+    margin: 10px;
 }
