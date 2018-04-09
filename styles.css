@@ -4,7 +4,7 @@ body{
     height: 29.7cm;
     border: 1px solid black;
     margin: 0 auto;
-    background-color: #99ffd888;
+    
 }
 #container{
 width: 100%;
@@ -109,4 +109,9 @@ h2{
 }
 p{
     margin: 10px;
+}
+.ss{
+    background-color: powderblue;
+
+
 }
