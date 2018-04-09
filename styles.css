@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Itim');
 body{
    
     width: 21cm;
@@ -108,6 +109,7 @@ h2{
     box-shadow: 0 0 5px rgba(0, 0, 0, 2);
 }
 p{
+    font-family: 'Itim', cursive;
     margin: 10px;
 }
 .ss{
